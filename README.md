@@ -25,7 +25,7 @@ Create jobs with cron-like schedules (e.g., every Monday at 9 AM).
 
 ---
 
-## 🚀 Project Setup
+##  Project Setup
 
 Follow these steps to set up and run the service locally:
 
@@ -40,7 +40,7 @@ cd scheduler_service
 5. uvicorn app.main:app --reload
 
 
-# Scalability Overview (One-Pager)
+## Scalability Overview (One-Pager)
 This microservice is designed to scale horizontally and handle high workloads:
 
 1️ Horizontal Scaling
